@@ -1,0 +1,11 @@
+p{
+    color: aqua;
+    border-color: darkgoldenrod;
+    border-style: dotted;
+    border-width: 20px;
+    background-color: bisque;
+    font-size: 50px;
+}
+h1{
+    border: 20px red solid;
+}
