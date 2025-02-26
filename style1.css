@@ -1,0 +1,15 @@
+#container{
+    color: red;
+    background-color: aquamarine;
+    display: flex;
+    justify-content:space-evenly;
+    /* the both property used after display upper is for horizontal alignment and lower is for vertical alignment */
+    align-items: center;
+    gap: 20%;
+}
+
+.link{
+    display: flex;
+    gap: 20%;
+    list-style: none;
+}
